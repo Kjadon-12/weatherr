@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherr/static/css/main.09e7f45e.css",
+    "main.js": "/weatherr/static/js/main.e3858b6d.js",
+    "static/js/787.5ab74488.chunk.js": "/weatherr/static/js/787.5ab74488.chunk.js",
+    "static/media/weather.jpg": "/weatherr/static/media/weather.c9ed846f07c4ea18818e.jpg",
+    "index.html": "/weatherr/index.html",
+    "main.09e7f45e.css.map": "/weatherr/static/css/main.09e7f45e.css.map",
+    "main.e3858b6d.js.map": "/weatherr/static/js/main.e3858b6d.js.map",
+    "787.5ab74488.chunk.js.map": "/weatherr/static/js/787.5ab74488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e7f45e.css",
+    "static/js/main.e3858b6d.js"
+  ]
+}
